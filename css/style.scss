@@ -20,14 +20,20 @@ header{
 .main{
 	ul{
 		margin: 50px;
-		li{
-			line-height: 28px;
-		}
+	}
+	li{
+		line-height: 28px;
 	}
 	.bg{
 		
 	}
-	li:hover{
+	ul li:hover{
 		background: yellow;
+	}
+	ol{
+		margin: 50px;
+	}
+	ol li:hover{
+		background: purple;
 	}
 }

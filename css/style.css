@@ -18,9 +18,13 @@ header {
 
 .main ul {
   margin: 50px; }
-  .main ul li {
-    line-height: 28px; }
-.main li:hover {
+.main li {
+  line-height: 28px; }
+.main ul li:hover {
   background: yellow; }
+.main ol {
+  margin: 50px; }
+.main ol li:hover {
+  background: purple; }
 
 /*# sourceMappingURL=style.css.map */
